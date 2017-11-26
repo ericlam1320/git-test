@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-<?php
-	echo'Hello World';
-	echo'Hello Eric';
-?>
-=======
->>>>>>> parent of 1e27b95... demo-git.txt changed php echo Hello World
