@@ -1,5 +1,3 @@
 hello github
 
 hello liverpool
-
-hello gerrard
